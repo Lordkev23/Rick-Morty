@@ -2,7 +2,7 @@ import styled from "styled-components"
 import { Link } from "react-router-dom"
 import { useState, useEffect } from "react"
 import { connect } from "react-redux";
-import { agregarFavorito, removerFavorito } from "../redux/actions.js";
+import { agregarFavorito, removerFavorito } from "../../redux/actions.js";
 
 const DivCard = styled.div`
 margin-top: 3%;
