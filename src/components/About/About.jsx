@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import "./About.css";
 
 const Divstyle = styled.div`
 	backdrop-filter: blur(20px);
