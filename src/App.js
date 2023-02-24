@@ -1,5 +1,5 @@
 import './App.css'
-import Cards from './components/Cards.jsx'
+import Cards from './components/Cards/Cards.jsx'
 import styled from 'styled-components'
 import GlobalStyles from './globalStyles'
 import { useState, useEffect } from 'react'
