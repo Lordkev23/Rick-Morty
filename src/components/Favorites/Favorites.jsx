@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components"
 import { connect, useDispatch } from "react-redux";
-import { filtrarPersonajes, ordenarPersonajes } from "../redux/actions.js";
+import { filtrarPersonajes, ordenarPersonajes } from "../../redux/actions.js";
  
 
 	const GoodDiv = styled.div`
