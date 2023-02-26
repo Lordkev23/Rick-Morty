@@ -1,5 +1,5 @@
 import React from "react";
-import { validation } from "./validation.js";
+import { validation } from "../validation.js";
 
 export default function Form(props) {
 	const [userData, setUserData] = React.useState({

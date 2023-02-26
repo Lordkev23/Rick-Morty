@@ -1,6 +1,6 @@
- import SearchBar from "./SearchBar";
+ import SearchBar from "../SearchBar/SearchBar";
  import styled from "styled-components";
- import RamdonPerson from "./ramdonPerson";
+ import RamdonPerson from "../RamdonPerson/ramdonPerson";
  import { Link } from 'react-router-dom';
 
 

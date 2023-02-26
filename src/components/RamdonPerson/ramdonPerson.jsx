@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import characters from "../data";
+import characters from "../../data";
 
 
 const Boton = styled.button`
